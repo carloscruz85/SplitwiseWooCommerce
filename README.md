@@ -2,13 +2,15 @@
 
 Plugin to extend WooCommerce to make payments with Splitwise API in Wordpress.
 
+### Libraries
+Plugin use OAuth 1.0 Client Library for PHP - [Github repository](https://github.com/risan/oauth1/)
 
 ### Prerequisites
 Download and install - [wordpress](https://wordpress.org/download/)
 
 In order to use SplitwiseWooCommerce plugin you should to install and activate WooCommerce plugin before.
 
-Next download this plugin in your wordpress plugin directory and activate, after that you will get redirected to setting page 
+Next download this plugin in your wordpress plugin directory and activate it, after that you will get redirected to setting page 
 where you should set your splitwise credentials. 
 
 ### Configuring The Plugin 
